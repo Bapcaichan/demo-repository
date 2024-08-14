@@ -6,4 +6,4 @@ print("Hello, world")
 
 print(data)
 
-print("lmao")
+print("lmao lmao")
